@@ -1,1 +1,0 @@
-# spice-garden-v4
